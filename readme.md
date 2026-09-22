@@ -131,6 +131,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 - [smn2gnt/MCP-Salesforce](https://github.com/smn2gnt/MCP-Salesforce) - Salesforce connector via MCP. ★ 179 `mit`
 - [tsmztech/mcp-server-salesforce](https://github.com/tsmztech/mcp-server-salesforce) - Alternate Salesforce server with broader operations. ★ 156 `mit`
 - [baryhuang/mcp-hubspot](https://github.com/baryhuang/mcp-hubspot) - HubSpot CRM with vector caching to work around API limits. ★ 124 `mit`
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. `https://statsnet.co/mcp` `api-key`
 
 ### Knowledge and notes
 
