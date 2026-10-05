@@ -134,6 +134,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 
 ### Knowledge and notes
 
+- 🎖️ ⚠ [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted knowledge store with scoped, expiring MCP grants. `mit` `🏠`
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Read and write Obsidian vaults via the REST API plugin. ★ 3.8k `mit`
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - Simple Obsidian MCP server. ★ 712 `mit`
 - [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Surgical edits, tags, and frontmatter for Obsidian. ★ 562 `mit`
