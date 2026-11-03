@@ -167,6 +167,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 
 ### E-commerce
 
+- 🎖️ [Good Nature Vibe Catalog](https://github.com/aiagentcycle/gnv-catalog-mcp) - Read-only product and public shop knowledge search. `mit` `none` `catalog-mcp.goodnaturevibe.com/mcp`
 - [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) - Shopify Admin API for Claude and Cursor. ★ 210 `mit`
 
 ### Data and analytics
