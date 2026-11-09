@@ -197,6 +197,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 
 ### Search
 
+- 🎖️ [Arcmira: YouTube Transcript Search](https://arcmira.com/docs/mcp-server) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. `oauth2` `mcp.arcmira.com/mcp`
 - 🎖️ [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) - Official Brave search server. ★ 1.1k
 - [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) - Academic search across arXiv, PubMed, bioRxiv. ★ 1.6k
 
