@@ -131,6 +131,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 - [smn2gnt/MCP-Salesforce](https://github.com/smn2gnt/MCP-Salesforce) - Salesforce connector via MCP. ★ 179 `mit`
 - [tsmztech/mcp-server-salesforce](https://github.com/tsmztech/mcp-server-salesforce) - Alternate Salesforce server with broader operations. ★ 156 `mit`
 - [baryhuang/mcp-hubspot](https://github.com/baryhuang/mcp-hubspot) - HubSpot CRM with vector caching to work around API limits. ★ 124 `mit`
+- 🎖️ [Puley](https://puley.com/connect) - Local business leads, competitor ads, social stats and price watches. `app.puley.com/mcp` `oauth2`
 
 ### Knowledge and notes
 
