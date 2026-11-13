@@ -185,6 +185,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 
 - 🎖️ [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) - Voice generation, conversational AI. ★ 1.4k `mit`
 - 🎖️ [Hugging Face MCP](https://github.com/huggingface/hf-mcp-server) - Search models, datasets, spaces. ★ 241 `mit`
+- 🎖️ [Magic Hour](https://docs.magichour.ai/integration/model-context-protocol) - Create and edit images and videos, and generate audio. `oauth2` `mcp.magichour.ai`
 - [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) - Image and SVG generation via Replicate Flux. ★ 105 `mit`
 
 ### Scheduling
