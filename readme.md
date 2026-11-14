@@ -183,7 +183,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 
 ### AI and ML
 
-- 🎖️ [Kling AI MCP](https://kling.ai/app/mcp/guide) - Generate images and videos, query tasks; uses paid credits. `kling.ai/mcp` `oauth2`
+- 🎖️ [Kling AI MCP](https://kling.ai/app/mcp/guide) - Generate images and videos, query tasks; uses paid credits. `https://kling.ai/mcp/plugin` `oauth2`
 - 🎖️ [ElevenLabs MCP](https://github.com/elevenlabs/elevenlabs-mcp) - Voice generation, conversational AI. ★ 1.4k `mit`
 - 🎖️ [Hugging Face MCP](https://github.com/huggingface/hf-mcp-server) - Search models, datasets, spaces. ★ 241 `mit`
 - [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) - Image and SVG generation via Replicate Flux. ★ 105 `mit`
