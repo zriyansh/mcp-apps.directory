@@ -180,6 +180,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) - Read-only BigQuery for LLMs. ★ 140 `mit`
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel file manipulation. ★ 3.9k `mit` `🏠`
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 25+ chart types via AntV. ★ 4.1k `mit`
+- 🎖️ [leadli.me](https://leadli.me/en/guides/mcp-server) - Reports Telegram subscriber attribution and manages channel setup. `api.leadli.me/api/v1/mcp` `api-key`
 
 ### AI and ML
 
