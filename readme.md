@@ -61,6 +61,7 @@ These render an in-chat widget in **both** ChatGPT and Claude.
 
 - 🎖️ [Figma](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server) - Comment on files, search nodes, sync design tokens. Confirmed Apps SDK pilot partner with parallel Claude support. `oauth2` `mcp.figma.com/mcp`
 - 🎖️ [Canva](https://www.canva.com/help/connecting-to-chatgpt/) - Generate and edit designs from chat. Cross-host since Anthropic's January announcement. `oauth2`
+- 🎖️ [No Stairs Please](https://nostairsplease.com/mcp) - Search 5,000+ small live music venues across all 50 US states with an interactive map widget. `oauth2` `nostairsplease.com/mcp`
 
 ## ChatGPT pilot partner apps
 
