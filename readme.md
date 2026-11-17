@@ -171,6 +171,8 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 
 ### Data and analytics
 
+- 🎖️ [Ask Japan](https://github.com/ihouse-corp/ask-japan-mcp) - Japanese company, invoice and postcode data, plus human services in Japan. `none` `askjapan.senpinai.com/mcp`
+
 - 🎖️ [Supabase](https://supabase.com/docs/guides/getting-started/mcp) - Database, tables, config. `mcp.supabase.com/mcp` `api-key`
 - 🎖️ [PostHog](https://posthog.com/docs/model-context-protocol) - HogQL queries, flags, errors. `mcp.posthog.com/mcp` `api-key`
 - 🎖️ [Google MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) - Postgres, BigQuery, Spanner, Mongo, Redis, more. ★ 15k `apache-2.0`
