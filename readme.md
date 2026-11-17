@@ -222,6 +222,8 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 
 ### Specialty
 
+- 🎖️ [MARU Japan Hands](https://github.com/ihouse-corp/maru-japan-hands) - Japanese phone calls, reservations, shopping and on-site checks by people in Japan. `none` `maru.senpinai.com/mcp`
+
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - Reverse engineering via Ghidra. ★ 9.0k `apache-2.0`
 - ⚠ [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - 150+ cybersecurity tools for **authorized** pentesting only. ★ 9.0k `mit`
 
