@@ -233,6 +233,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 - [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) - TypeScript framework for MCP Apps and ChatGPT Apps. ★ 1.4k `mit`
 - 🎖️ [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - The official MCP Apps SDK. ★ 2.3k `mit`
 - [Sunpeak-AI/sunpeak](https://github.com/Sunpeak-AI/sunpeak) - Testing framework plus Apps framework for ChatGPT Apps, Claude Connectors, and more. ★ 186 `mit`
+- [xmcp](https://github.com/basementstudio/xmcp) - TypeScript framework for MCP servers and React widgets in MCP Apps. ★ 1.4k `mit`
 
 ## Official SDKs
 
