@@ -193,6 +193,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 
 ### Email send
 
+- 🎖️ [Poptin](https://developers.poptin.com/docs/mcp) - Draft email campaigns, build segments, and compare popup performance. `mcp.popt.in/mcp` `oauth2`
 - 🎖️ [Resend](https://github.com/resend/resend-mcp) - Transactional email. Self-hosted only, run with `npx resend-mcp`. `🏠`
 
 ### Search
